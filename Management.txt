@@ -1,0 +1,1 @@
+{'First_Name': [''], 'Last_Name': ['Nurmuhammad'], 'Phone_num': ['900012'], 'Room_Type': ['Normal'], 'Days': [4], 'Price': ['2000'], 'Room': ['501']}

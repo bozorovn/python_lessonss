@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 31 22:29:12 2021
 
-@author: turgu
+@author: Bozoroff
 """
 turnik = int(input('nechta tortinding?>'))
 if turnik < 0:
